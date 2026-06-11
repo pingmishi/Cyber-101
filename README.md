@@ -1,6 +1,6 @@
 # Cyber-101
 
-This repository is a growing collection of my notes on cybersecurity fundamentals.
+This repository is a growing collection of my notes on cybersecurity fundamentals.#
 
 ###  The Core Goal: The CIA Triad
 Every security strategy aims to protect three main things:
