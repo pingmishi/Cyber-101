@@ -7,7 +7,7 @@ Every security strategy aims to protect three main things:
 * **Confidentiality:** Keeping secrets safe so only authorized people can view them (e.g., encryption, passwords).
 * **Integrity:** Making sure data is accurate and has not been tampered with by unauthorized users.
 * **Availability:** Ensuring systems and data are up and running when users need them.
-
+         
 ###  Common Types of Cyber Threats
 To defend a system, you must know what you are defending against. Here are the most common attacks:
 * **Malware:** Malicious software like viruses, ransomware, and spyware designed to harm or lock systems.
