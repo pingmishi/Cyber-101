@@ -2,7 +2,7 @@
  
 This repository is a growing collection of my notes on cybersecurity fundamentals.  
 
-###  The Core Goal: The CIA Triad
+###  The Core Goal: The CIA Triad 
 Every security strategy aims to protect three main things:
 * **Confidentiality:** Keeping secrets safe so only authorized people can view them (e.g., encryption, passwords).
 * **Integrity:** Making sure data is accurate and has not been tampered with by unauthorized users.
